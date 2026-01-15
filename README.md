@@ -1,5 +1,5 @@
 - 👋 Oi, seja bem vindo(a), Meu nome é Arteiro Segundo.
-- 💻 Html, CSS, Javascript, TypeScript, React, PhP, Python, MySQL, PostgreeSQL, NodeJS, Git, GitHub, etc...
+- 💻 Desenvolvo em: Html, CSS, Javascript, TypeScript, React, PhP, Python, MySQL, PostgreeSQL, NodeJS, Git, GitHub, etc...
 - 👨🏻‍💻 Sou Formado em Análise e Desenvolvimento de Sistemas, e Já Trabalho Na Área Criando Projetos, Apps, Sites, e etc, para Empresas.
 
 

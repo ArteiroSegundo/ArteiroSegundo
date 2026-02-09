@@ -1,6 +1,6 @@
-- 👋 Oi, seja bem vindo(a), Meu nome é Arteiro Segundo.
-- 💻 Desenvolvo em: Html, CSS, Javascript, TypeScript, React, PhP, Python, MySQL, PostgreeSQL, NodeJS, Git, GitHub, etc...
-- 👨🏻‍💻 Sou Formado em Análise e Desenvolvimento de Sistemas, e Já Trabalho Na Área Criando Projetos, Apps, Sites, e etc, para Empresas.
+- 👋 Seja muito bem vindo(a)! Muito Prazer! Meu nome é Arteiro, Sou Analista e Desenvolvedor de Sistemas.
+- 👨🏻‍💻Trabalho com Desenvolvimento de Sites, Landing Pages, Blogs, Lojas Virtuais, Ecommerces, SaaS, e APPs, para Empresas do Brasil inteiro.
+- Pascal, VB, C, C#, JAVA, Html, Css, Tailwind, PHP, Python, Javascript, TypeScript, React, Vite, Node js, Next js, Git, GitHub, MySQL, PostGreSQL... 
 
 
 <!---

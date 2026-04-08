@@ -1,6 +1,4 @@
-- 👋 Seja muito bem vindo(a)! Muito Prazer! Meu nome é Arteiro, Sou Analista e Desenvolvedor de Sistemas.
-- 👨🏻‍💻Desenvolvo Sites, Landing Pages, Blogs, Lojas Virtuais, Ecommerces, SaaS, e APPs, para Empresas do Brasil inteiro.
-- Tecnologias: Pascal, VB, C, C#, JAVA, Html, Css, Tailwind, PHP, Python, Javascript, TypeScript, React, Vite, Node js, Next js, Git, GitHub, MySQL, PostGreSQL... 
+🚀 Desenvolvedor Full Stack focado em transformar visão de negócio em código de alta performance. Atualmente focado em arquiteturas modernas com Next.js 14, Supabase e Tailwind CSS. Fundador da ArtsCode e parceiro da Suri by Chatbotmaker (TOTVS).
 
 
 <!---

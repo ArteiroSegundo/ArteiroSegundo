@@ -1,4 +1,4 @@
-# Olá, eu sou o José Arteiro (ArteiroSegundo) 👋
+# Olá, eu sou o Arteiro (ArteiroSegundo) 👋
 
 Analista de Sistemas, Desenvolvedor Full Stack Sênior e Empreendedor focado em transformar visões de negócio em arquiteturas de software de alta performance. Atuo no desenho e na construção de ecossistemas robustos, escaláveis e centrados na experiência do usuário.
 

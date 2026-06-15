@@ -33,9 +33,8 @@ Analista de Sistemas, Desenvolvedor Full Stack Sênior e Empreendedor focado em 
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ArteiroSegundo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de ArteiroSegundo" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArteiroSegundo&layout=compact&theme=dark" alt="Linguagens mais usadas por ArteiroSegundo" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArteiroSegundo&layout=compact&theme=dark&hide_pics=true" alt="Linguagens mais usadas por ArteiroSegundo" height="150" />
 </p>
-
 ---
 
 ### 📫 Vamos nos conectar?

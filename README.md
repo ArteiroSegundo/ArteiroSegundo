@@ -8,7 +8,7 @@ Analista de Sistemas, Desenvolvedor Full Stack Sênior e Empreendedor focado em 
 
 - 🛠️ **Fundador da ArtsCode**, agência focada no desenvolvimento de soluções digitais corporativas, automações e sistemas web de alto impacto.
 - 🤝 **Parceiro Estratégico da Suri by Chatbotmaker (TOTVS)**, atuando diretamente na integração de ecossistemas de atendimento e plataformas modernas.
-🧠 Especialista em Engenharia de Software Assistida por IA, integrando agentes autônomos e IA generativa avançada diretamente no terminal e fluxos de arquitetura para maximizar a velocidade e a confiabilidade das entregas.
+- 🧠 Especialista em Engenharia de Software Assistida por IA, integrando agentes autônomos e IA generativa avançada diretamente no terminal e fluxos de arquitetura para maximizar a velocidade e a confiabilidade das entregas.
 
 ---
 

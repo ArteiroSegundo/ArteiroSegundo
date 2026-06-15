@@ -26,13 +26,6 @@ Analista de Sistemas, Desenvolvedor Full Stack Sênior e Empreendedor focado em 
 ### 🛠️ Projetos em Destaque
 * **[ArtS Imóveis](https://artsimoveis.com.br):** Desenho, arquitetura e manutenção de um ecossistema SaaS e hub CRM completo voltado para o mercado imobiliário. O sistema integra gestão inteligente de leads, automação de fluxos de trabalho e arquitetura focada em alta performance de carregamento e escalabilidade.
 ---
-### 📊 Atividade no GitHub
-
-<p align="left">
-  <img src="https://img.shields.io/github/followers/ArteiroSegundo?label=Seguidores&style=for-the-badge&color=7159c1" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/ArteiroSegundo?label=Estrelas%20Totais&style=for-the-badge&color=ffb86c" alt="Estrelas" />
-</p>
----
 
 ### 📫 Vamos nos conectar?
 

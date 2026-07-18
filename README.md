@@ -6,7 +6,7 @@ Analista de Sistemas, Desenvolvedor Full Stack Sênior e Empreendedor focado em 
 
 ### 🚀 Sobre Mim
 
-- 🛠️ **ArtsCode** soluções digitais corporativas, automações e sistemas web de alta performance.
+- 🛠️ **ArtsCode** soluções digitais, automações, integrações e sistemas web de alta performance.
 - 🧠 Especialista em Engenharia de Software Assistida por IA, integrando agentes autônomos e IA generativa avançada diretamente no terminal e fluxos de arquitetura para maximizar a velocidade e a confiabilidade das entregas.
 
 ---

@@ -7,7 +7,6 @@ Analista de Sistemas, Desenvolvedor Full Stack Sênior e Empreendedor focado em 
 ### 🚀 Sobre Mim
 
 - 🛠️ **Fundador da ArtsCode**, agência focada no desenvolvimento de soluções digitais corporativas, automações e sistemas web de alto impacto.
-- 🤝 **Parceiro Estratégico da Suri by Chatbotmaker (TOTVS)**, atuando diretamente na integração de ecossistemas de atendimento e plataformas modernas.
 - 🧠 Especialista em Engenharia de Software Assistida por IA, integrando agentes autônomos e IA generativa avançada diretamente no terminal e fluxos de arquitetura para maximizar a velocidade e a confiabilidade das entregas.
 
 ---
@@ -16,10 +15,10 @@ Analista de Sistemas, Desenvolvedor Full Stack Sênior e Empreendedor focado em 
 
 | Camada | Tecnologias Dominadas |
 | :--- | :--- |
-| **Frontend & SSR** | React, Next.js, TypeScript, Tailwind CSS, Shadcn/ui, Figma |
-| **Backend & APIs** | Node.js, Next.js API Routes, Integrações de APIs RESTful |
-| **Banco de Dados & Cloud** | PostgreSQL, Supabase (Auth, Storage, Realtime) |
-| **Produtividade & IA** | Claude Code, ChatGPT Plus, Gemini Code Assist, Terminal Automations |
+| **Frontend & SSR** | React, Next.js, TypeScript, Tailwind CSS.
+| **Backend & APIs** | Node.js, Next.js API Routes, Integrações de APIs RESTful.
+| **Banco de Dados** | PostgreSQL.
+| **Produtividade & IA** | Claude Code, ChatGPT.
 
 ---
 

@@ -6,7 +6,7 @@ Analista de Sistemas, Desenvolvedor Full Stack Sênior e Empreendedor focado em 
 
 ### 🚀 Sobre Mim
 
-- 🛠️ **Fundador da ArtsCode**, agência focada no desenvolvimento de soluções digitais corporativas, automações e sistemas web de alto impacto.
+- 🛠️ **ArtsCode** soluções digitais corporativas, automações e sistemas web de alta performance.
 - 🧠 Especialista em Engenharia de Software Assistida por IA, integrando agentes autônomos e IA generativa avançada diretamente no terminal e fluxos de arquitetura para maximizar a velocidade e a confiabilidade das entregas.
 
 ---
